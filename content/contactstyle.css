@@ -1,0 +1,43 @@
+
+div {
+    margin: auto 0;
+}
+
+img {
+    width:  1250px;
+    height: 250px;
+    
+}
+
+body {
+    background-color: gray;
+}
+
+a {
+    color: black;
+}
+
+hr {
+    color: black;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a, li{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color:rgb(16, 16, 16);
+
+}
+.navbar li{
+float: left ;
+}
